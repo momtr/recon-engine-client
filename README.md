@@ -1,3 +1,5 @@
+<img src="https://github.com/moritzmitterdorfer/recon-engine-client/blob/master/img.png">
+
 # recon-engine-client
 🍭 Backend client for Recon Engine
 
